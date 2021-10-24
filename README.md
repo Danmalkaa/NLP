@@ -1,2 +1,2 @@
 # NLP
-TAU NLP course Projects - Dab and Yuvi
+TAU NLP course Projects - Dan and Yuvi
